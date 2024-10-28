@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\DellAs\source\repos\Lab_08.1rec\Lab_08.1rec.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\DellAs\source\repos\Lab_08.1rec\Lab_08.1rec.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  UnitTest1.vcxproj -> C:\Users\DellAs\source\repos\Lab_08.1rec\x64\Debug\UnitTest1.dll
